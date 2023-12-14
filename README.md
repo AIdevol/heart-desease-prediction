@@ -9,7 +9,7 @@ TAKEWAYS.
          
 
 Data insight:
-      As mentioned here we will be working with the heart disease detection dataset and we will be putting out interesting inferences from the data to derive some           meaningful results.
+      As mentioned here we will be working with the heart disease detection dataset and we will be putting out interesting inferences from the data to derive some meaningful results.
       
       
 EDA: 
