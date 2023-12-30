@@ -11,7 +11,7 @@ TAKEWAYS.
 Data insight:
       As mentioned here we will be working with the heart disease detection dataset and we will be putting out interesting inferences from the data to derive some meaningful results.
        
-      
+       
 EDA:
      Exploratory data analysis is the key step for getting meaningful results.
      Feature engineering: After getting the insights from the data we have to alter the features so that they can move forward for the model building phase.
