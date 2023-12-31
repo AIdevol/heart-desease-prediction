@@ -18,5 +18,3 @@ EDA:
      Model building: In this phase, we will be building our Machine learning model for heart disease detection.
 
 
-
-
